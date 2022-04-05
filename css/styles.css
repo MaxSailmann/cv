@@ -1,0 +1,63 @@
+/* Colores
+F76E11 Orange
+FF9F45 Yellow-Orange
+FFBC80 Yellow
+FC4F4F Red
+*/
+
+body {
+    margin: 0;
+    font-family: cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.top-div {
+    background-color: #FFBC80;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+}
+
+.title {
+    display: inline-block;
+    font-family: 'Caveat', cursive;
+}
+
+.top-cloud {
+    bottom: 50px;
+    display: inline-block;
+    position: relative;
+    right: 10%;
+}
+
+.bottom-cloud {
+    display: inline-block;
+    left: 10%;
+    position: relative;
+    top: 50px;
+}
+
+.mountain {
+    display: block;
+    margin: 0 auto;
+}
+
+.middle-div {
+    background-color: #F76E11;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-div {
+    background-color: #FF9F45;
+    height: 200px;
+    width: 200px;
+}
